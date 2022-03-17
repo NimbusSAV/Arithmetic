@@ -1,0 +1,5 @@
+﻿  arithmetic.cpp
+C:\Users\Владислав\Desktop\Учеба и т п\ConsoleApplication1\ConsoleApplication1\arithmetic.cpp(56,22): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\Владислав\Desktop\Учеба и т п\ConsoleApplication1\ConsoleApplication1\arithmetic.cpp(66,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\Desktop\Учеба и т п\ConsoleApplication1\ConsoleApplication1\arithmetic.cpp(91,22): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\Владислав\Desktop\Учеба и т п\ConsoleApplication1\Debug\ConsoleApplication1.exe
